@@ -37,7 +37,7 @@ border-top: none;
     display: block;
 }
 
-@media screen and (min-width: 768px) {
+@media scre 'en and (min-width: 768px) 
     .botoes {
         display: flex;
     }
@@ -62,4 +62,3 @@ border-top: none;
         background-color: var(--botao-ativo);
         border-bottom: 4px solid var(--verde);
     }
-        
